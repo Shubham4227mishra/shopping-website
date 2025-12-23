@@ -1,4 +1,4 @@
-// triggering actions
+// triggering action
 const express = require('express');
 const mysql = require('mysql2/promise');
 const { SecretsManagerClient, GetSecretValueCommand } = require('@aws-sdk/client-secrets-manager');
