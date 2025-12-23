@@ -3,7 +3,7 @@ name: Cart Service CI/CD
 on:
   push:
     branches:
-      - main
+      - master
       - develop
     paths:
       - 'cart-service/**'
