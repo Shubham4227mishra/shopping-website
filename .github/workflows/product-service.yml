@@ -15,7 +15,7 @@ on:
       - 'product-service/**'
 
 env:
-  AWS_REGION: us-east-1
+  AWS_REGION: ap-south-1
   ECR_REPOSITORY: shopping-product-service
   ECS_SERVICE: product-service
   ECS_CLUSTER: shopping-cluster
