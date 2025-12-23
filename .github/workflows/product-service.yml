@@ -3,7 +3,7 @@ name: Product Service CI/CD
 on:
   push:
     branches:
-      - main
+      - master
       - develop
     paths:
       - 'product-service/**'
