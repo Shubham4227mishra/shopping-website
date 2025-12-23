@@ -1,5 +1,3 @@
-// ECR MICROSERVICE PRODUCT SERVICE
-
 name: Product Service CI/CD
 
 on:

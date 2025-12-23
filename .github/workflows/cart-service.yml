@@ -1,5 +1,3 @@
-//ECR_MICROSERVICE CART SERVICE
-
 name: Cart Service CI/CD
 
 on:
